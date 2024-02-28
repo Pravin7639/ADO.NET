@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\ADONETIntro\ADONETIntro\bin\Debug\ADONETIntro.exe.config
+C:\Users\DELL\source\repos\ADONETIntro\ADONETIntro\bin\Debug\ADONETIntro.exe
+C:\Users\DELL\source\repos\ADONETIntro\ADONETIntro\bin\Debug\ADONETIntro.pdb
+C:\Users\DELL\source\repos\ADONETIntro\ADONETIntro\obj\Debug\ADONETIntro.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ADONETIntro\ADONETIntro\obj\Debug\ADONETIntro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ADONETIntro\ADONETIntro\obj\Debug\ADONETIntro.exe
+C:\Users\DELL\source\repos\ADONETIntro\ADONETIntro\obj\Debug\ADONETIntro.pdb
