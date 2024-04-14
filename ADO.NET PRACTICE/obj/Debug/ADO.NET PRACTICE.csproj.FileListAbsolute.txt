@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\ADONETIntro\ADO.NET PRACTICE\bin\Debug\ADO.NET PRACTICE.exe.config
+C:\Users\DELL\source\repos\ADONETIntro\ADO.NET PRACTICE\bin\Debug\ADO.NET PRACTICE.exe
+C:\Users\DELL\source\repos\ADONETIntro\ADO.NET PRACTICE\bin\Debug\ADO.NET PRACTICE.pdb
+C:\Users\DELL\source\repos\ADONETIntro\ADO.NET PRACTICE\obj\Debug\ADO.NET PRACTICE.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ADONETIntro\ADO.NET PRACTICE\obj\Debug\ADO.NET PRACTICE.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ADONETIntro\ADO.NET PRACTICE\obj\Debug\ADO.NET PRACTICE.exe
+C:\Users\DELL\source\repos\ADONETIntro\ADO.NET PRACTICE\obj\Debug\ADO.NET PRACTICE.pdb
